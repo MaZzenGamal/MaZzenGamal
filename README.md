@@ -14,20 +14,11 @@
   <a href="mailto:mazeng18@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" />
-</p>
 
 ### 📌 Executive Summary
 Talented **Flutter Mobile App Developer** with strong analytical and problem-solving skills, dedicated to building high-performance Android & iOS applications with seamless UI animations and clean architecture. Proven track record of publishing production-ready apps serving **25,000+ active users**.
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="550" alt="Mobile Development Animation" />
-</p>
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" />
-</p>
 
 ### ⚡ Professional Overview
 
