@@ -1,8 +1,11 @@
-<h1 align="center">Hi 👋, I'm Mazen Gamal Mohamed</h1>
-<h3 align="center">Mobile App Developer | Flutter & Cross-Platform Specialist</h3>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=02569B&height=200&section=header&text=Mazen%20Gamal%20Mohamed&fontSize=42&fontColor=ffffff&animation=fadeIn" />
+</p>
+
+<h3 align="center">Flutter Mobile App Developer | Cross-Platform Specialist</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=02569B&center=true&vCenter=true&width=700&lines=Flutter+%26+Dart+Cross-Platform+Developer;25K%2B+Active+Users+Served;Building+Production-Ready+iOS+%26+Android+Apps;Clean+Architecture+%7C+BLoC+%7C+WebSockets" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=02569B&center=true&vCenter=true&width=700&lines=Flutter+%26+Dart+Mobile+App+Developer;25K%2B+Active+Users+Served+on+Stores;Clean+Architecture+%7C+BLoC+%7C+WebSockets;Crafting+Fluid+Animations+%26+Pixel-Perfect+UIs" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -14,7 +17,11 @@
 ---
 
 ### 📌 Executive Summary
-Talented Mobile App Developer with strong analytical and problem-solving skills, dedicated to building high-quality Android and iOS applications that deliver exceptional user experiences. Proven expertise in Flutter, REST APIs, mobile app architecture, version control, Firebase, and app store deployment. Brings a track record of publishing production-ready apps serving **25,000+ active users**.
+Talented **Flutter Mobile App Developer** with strong analytical and problem-solving skills, dedicated to building high-performance Android & iOS applications with seamless UI animations and clean architecture. Proven track record of publishing production-ready apps serving **25,000+ active users**.
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUGGAC3P4PP9385a/giphy.gif" width="400" alt="Flutter Animation" />
+</p>
 
 ---
 
@@ -22,8 +29,8 @@ Talented Mobile App Developer with strong analytical and problem-solving skills,
 
 ```yaml
 Name: Mazen Gamal Mohamed
-Role: Freelance Mobile App Developer (2024 - Present)
+Role: Flutter Mobile App Developer
 Location: Benha, Al Qalyubiyah, Egypt
 Education: B.Sc. in Computers & Artificial Intelligence - Benha University (2018 - 2022)
 Impact: Shipped production-ready iOS & Android apps serving 25,000+ active users
-Languages: Arabic (Native), English (Working Proficiency)
+Core Focus: Mobile Architecture, Fluid Animations, Real-Time Data & Clean Code
